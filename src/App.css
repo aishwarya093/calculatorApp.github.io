@@ -1,0 +1,38 @@
+.calc {
+  width: 359px;
+  height: 444px;
+  margin: 13px auto;
+  padding: 21px;
+  background-color: #a2bfed;
+  border-radius: 32px;
+}
+#answer {
+  border: 2px rgb(151 173 216);
+  border-radius: 19px;
+  background-color: #edf1f6;
+  padding: 34px;
+  width: 290px;
+  height: 31px;
+  text-align: right;
+  font-size: 60px;
+}
+.button {
+  background-color: rgb(208 215 242);
+  border-radius: 128px;
+  border: #f1ebeb;
+  width: 81px;
+  height: 64px;
+  margin: 4px;
+  float: left;
+  font-size: 34px;
+}
+#btn1{
+  width: 262px;
+}
+#btn2 {
+  background-color: #becaf7;
+}
+#btn3 {
+  background-color: #c9e1f8;
+}
+
